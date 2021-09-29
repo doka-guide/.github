@@ -7,5 +7,7 @@
 ## Полезные ссылки
 
 💫 [О проекте](https://github.com/doka-guide/content/blob/main/pages/about/index.md)
+
 🚀 [Контрибьютинг](https://github.com/doka-guide/content/blob/main/docs/contributing.md)
+
 📄 [Документация](https://github.com/doka-guide/content/tree/main/docs)
